@@ -3,7 +3,7 @@
 	<body>
 	<head>
 		<?php
-		echo"<h1>WARABY PLANSZA</h1>";
+		echo"<h1>CHECKERS BOARD</h1>";
 		//DEKLRACJA ZMIENNYCH POD OBRAZKI FIGUR		
 		$czarny = "<img src='czarny.png' alt = ''/>";
 		$czerwony = "<img src='czerwony.png' alt = ''/>";
